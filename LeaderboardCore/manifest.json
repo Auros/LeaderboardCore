@@ -5,7 +5,7 @@
     "author": "PixelBoom & PulseLane",
     "version": "1.2.3",
     "description": "A utility for custom leaderboards to attach themselves in Beat Saber.",
-    "gameVersion": "1.20.0",
+    "gameVersion": "1.24.0",
     "dependsOn": {
         "BSIPA": "^4.2.1",
         "BeatSaberMarkupLanguage": "^1.6.2",
